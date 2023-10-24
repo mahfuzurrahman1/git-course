@@ -1,10 +1,13 @@
 get the use data...
-process the data
+process the e in data
 
 
 
 the are no cookies.
+<<<<<<< HEAD
 
 login and logout
 
 change 1
+=======
+>>>>>>> bff780e8bd5cc9737ce2ce85afb5d6b4ffae4971
