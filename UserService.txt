@@ -1,6 +1,6 @@
 get the use data...
 process the en in data
-
+closing the mysql database connection
 
 
 the are no cookies.
